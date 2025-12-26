@@ -1,0 +1,11 @@
+# 1. Operating System System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 2. IDE/Editor folders (Optional but good practice)
+.vscode/
+.idea/
+
+# 3. Logs (if any)
+*.log
