@@ -2,7 +2,7 @@
 
 A digital sanctuary designed to help silence the noise. **OverthinkerMind** is a collection of interactive web tools built to provide clarity, calmness, and focus for the restless mind.
 
-DEMO LIVE {https://lakshaywalia05.github.io/overthinker-mind/}
+DEMO LIVE https://lakshaywalia05.github.io/overthinker-mind/
 
 > *"Silence the noise. Choose a tool."*
 
