@@ -2,6 +2,8 @@
 
 A digital sanctuary designed to help silence the noise. **OverthinkerMind** is a collection of interactive web tools built to provide clarity, calmness, and focus for the restless mind.
 
+DEMO LIVE {https://lakshaywalia05.github.io/overthinker-mind}
+
 > *"Silence the noise. Choose a tool."*
 
 ## ✨ Features
@@ -39,11 +41,3 @@ The application is divided into three core categories:
 * **Graphics:** HTML5 Canvas API (for the particle background)
 
 ---
-
-## 🚀 How to Run
-
-Since this is a static website, you don't need to install any complex servers.
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/overthinker-mind.git](https://github.com/YOUR_USERNAME/overthinker-mind.git)
